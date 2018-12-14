@@ -1,0 +1,16 @@
+msvcr100.dll
+
+
+msvcr100.dll is a part of Microsoft Visual C++ and is required to run programs developed with Visual C++.
+
+Some games or applications may need the file in the game/application installation folder. Copying it from Windows systemfolder to the install-folder of the game/application should fix that problem. Make sure to use the 32bit dll-files for 32bit software, and 64bit dll-file for 64bit software.
+
+Possible errormessages regarding this file:
+
+"msvcr100.dll Not Found"'
+
+"The file msvcr100.dll is missing"
+
+"File msvcr100.dll not found"
+
+"msvcr100.dll not found. Reinstalling might help fix this." 
